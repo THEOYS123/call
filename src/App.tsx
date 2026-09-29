@@ -742,7 +742,7 @@ export function App() {
             }`}
           >
             <Power className="w-4 h-4" />
-            <span>Dashboard Kontrol</span>
+            <span>Dashboard Kontrol test</span>
           </button>
 
           <button
